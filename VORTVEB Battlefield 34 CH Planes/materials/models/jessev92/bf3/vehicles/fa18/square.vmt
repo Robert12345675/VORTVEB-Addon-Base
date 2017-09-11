@@ -1,0 +1,12 @@
+
+VertexLitGeneric
+{
+
+	$baseTexture					models/jessev92/bf3/vehicles/fa18/square_d
+	$lightwarptexture				dev/identitylightwarp
+
+	$halflambert					1
+	$ambientocclusion				1
+	$nocull							0
+
+}

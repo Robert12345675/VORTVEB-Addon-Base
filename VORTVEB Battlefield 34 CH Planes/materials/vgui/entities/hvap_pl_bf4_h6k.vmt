@@ -1,0 +1,11 @@
+
+UnlitGeneric
+{
+
+	$baseTexture		vgui/entities/hvap_pl_bf4_h6k
+	$ignorez			1
+	$vertexcolor		1
+	$vertexalpha		1
+	$nolod				1
+
+}

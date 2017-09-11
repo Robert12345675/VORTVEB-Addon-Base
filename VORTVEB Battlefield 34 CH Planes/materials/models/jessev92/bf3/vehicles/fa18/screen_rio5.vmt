@@ -1,0 +1,14 @@
+
+VertexLitGeneric
+{
+
+	$baseTexture					models/jessev92/bf3/vehicles/fa18/screen_blank_d
+	//$basetexture					_rt_Camera
+	$lightwarptexture				dev/identitylightwarp
+
+	$halflambert					1
+	$ambientocclusion				1
+	$selfillum						1
+	$nocull							0
+
+}
